@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -15,7 +15,7 @@ public class GitAux {
     }
     
     public void metodoAlumno2(){
-        System.out.println("metodo 2");
+        System.out.println("modificado alumno2 angel jimenez");
     }
     
     public void metodoComunitario(){
