@@ -24,6 +24,8 @@ public class GitAux {
         System.out.println("Aqui escribimos todos");
         // modificacaciones alumno 1
         System.out.println("Alumno 1 inserta esta sentencia");
+	// modificaciones alumno 2
+        System.out.println("Alumno 2 inserta esta otra sentencia");
     }
     
     public void testGitAux(){
